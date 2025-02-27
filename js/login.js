@@ -12,11 +12,11 @@ document.getElementById('login-btn').addEventListener("click", function(event){
 
     }
     else{
-        alert("Your Pin Incorrect")
+        alert("  Incorrect Pin")
     }
    }
    else{
-    alert("Need a valid AC Number");
+    alert("Need A Valid AC Number");
    }
 
     
